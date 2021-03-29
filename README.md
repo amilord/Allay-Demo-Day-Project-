@@ -1,19 +1,3 @@
-# [Project Name]
 
-![(description)](https://raw.githubusercontent.com/your github username/repo name/main/file name.PNG)
-
-## How It's Made:
-
-**Tech used:** HTML, CSS, JavaScript, Node.js
-
-[about]
-
-## Installation
-
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
+“Power Thoughts”
+The purpose of the web application creates a customizable wellness plan specific to your personality traits. The user will sign up create a login enter their demographics and take a personality “questionnaire” and then have a personalized program for wellness based on their results from the test. The wellness plan will include mental growth challenges such as purposeful journaling, timeframe manifestations, meditation exercises, and daily affirmations but all will be catered to the individual’s personality. The goal is to improve mental well-being and increase mental mindfulness aiming to integrate the mind-body-based approach that helps people to manage their thoughts and feelings and mental health. Mental mindfulness has become widely used in a range of contexts. The web app can be used as a preventative practice for people with experience of recurrent depression, anxiety, or for people who need to gain more in sight with their emotions, boost attention and concentration, and improve their relationships with others.
